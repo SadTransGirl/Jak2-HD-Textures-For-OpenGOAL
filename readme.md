@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/SadTransGirl/Jak2-HD-Textures-For-Open-Goal">
+  <a href="https://github.com/SadTransGirl/Jak2-HD-Textures-For-OpenGOAL">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -33,10 +33,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<a href="https://github.com/SadTransGirl/Jak2-HD-Textures-For-Open-Goal">
+<a href="https://github.com/SadTransGirl/Jak2-HD-Textures-For-OpenGOAL">
     <img src="images/screenshot.png" alt="screenshot HD" width="600" height="500">
   </a>
-  <a href="https://github.com/SadTransGirl/Jak2-HD-Textures-For-Open-Goal">
+  <a href="https://github.com/SadTransGirl/Jak2-HD-Textures-For-OpenGOAL">
     <img src="images/screenshot2.png" alt="screenshot non-HD" width="600" height="500">
   </a>
   
@@ -69,7 +69,7 @@ Follow Texture Replacement for Source Version
 - [ ] Fix Textures Have Errors
 - [ ] Remake Any From Scratch if needed
 
-See the [open issues](https://github.com/SadTransGirl/Jak2-HD-Textures-For-Open-Goal/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/SadTransGirl/Jak2-HD-Textures-For-OpenGOAL/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,7 +90,7 @@ If you have a suggestion that would make this better, please open a issue or Con
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/SadTransGirl/Jak2-HD-Textures-For-Open-Goal]
+Project Link: [https://github.com/SadTransGirl/Jak2-HD-Textures-For-OpenGOAL]
 
  OpenGOAL Discord: [https://discord.com/invite/VZbXMHXzWv]
 *  Contact Me Here The Nobody#0027
