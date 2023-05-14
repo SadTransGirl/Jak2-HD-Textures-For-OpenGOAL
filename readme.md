@@ -35,14 +35,14 @@
 ## About The Project
 A Full Texture Replacement For Jak 2 On OpenGOAL
 
-## HD
-<a href="https://github.com/SadTransGirl/Jak2-HD-Textures-For-OpenGOAL/images/screentshot.png">
-    <img src="images/screenshot.png" alt="screenshot HD" width="600" height="500">
+## Non-HD
+<a href="images/screenshot.png">
+    <img src="images/screenshot.png" alt="screenshot non-HD" width="600" height="500">
   </a>
 
-  ## Non-HD
-  <a href="https://github.com/SadTransGirl/Jak2-HD-Textures-For-OpenGOAL/images/screenshot2.png">
-    <img src="images/screenshot2.png" alt="screenshot non-HD" width="600" height="500">
+  ## HD
+  <a href="images/screenshot2.png">
+    <img src="images/screenshot2.png" alt="screenshot HD" width="600" height="500">
   </a>
   
 <!-- GETTING STARTED -->
