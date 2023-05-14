@@ -74,8 +74,8 @@ Follow Texture Replacement for Source Version
 - [ ] Fix Textures Have Errors
 - [ ] Remake Any From Scratch if needed
 
-See the [open issues](https://github.com/SadTransGirl/Jak2-HD-Textures-For-OpenGOAL/issues) for a full list of proposed features (and known issues).
-
+See the [open issues](https://github.com/SadTransGirl/Jak2-HD-Textures-For-OpenGOAL/issues) for a full list of current issues.
+See the [progress tracker](https://github.com/users/SadTransGirl/projects/1) for current progress.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
