@@ -34,10 +34,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <a href="https://github.com/SadTransGirl/Jak2-HD-Textures-For-Open-Goal">
-    <img src="images/screenshot.png" alt="screenshot HD" width="1920" height="1440">
+    <img src="images/screenshot.png" alt="screenshot HD" width="2560" height="1440">
   </a>
   <a href="https://github.com/SadTransGirl/Jak2-HD-Textures-For-Open-Goal">
-    <img src="images/screenshot2.png" alt="screenshot non-HD" width="1920" height="1440">
+    <img src="images/screenshot2.png" alt="screenshot non-HD" width="2560" height="1440">
   </a>
   
 <!-- GETTING STARTED -->
