@@ -36,7 +36,7 @@
 A Full Texture Replacement For Jak 2 On OpenGOAL
 
 Disclaimer: You sholdn't download this if you don't already own Jak II, Otherwise is it piracy.
-            Textures are owned by Naughty Dog, this is a passion prokject only.
+            Textures are owned by Naughty Dog, this is a passion project only.
 
 ## Non-HD
 <a href="images/screenshot.png">
